@@ -3,6 +3,6 @@
 --feature-A
 --feature-B
 --feature-C
---fae-CC
+--feature-CC
 --/////////
 --end
